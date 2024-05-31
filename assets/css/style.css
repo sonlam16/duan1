@@ -61,6 +61,7 @@ a {
   align-items: center;
   padding: 29px 0 8px;
 }
+
 .line-clamp {
   /* tạo class line-clamp để ẩn các dòng có nội dung dài thành dấu 3... */
   display: -webkit-box;
